@@ -1,16 +1,16 @@
 <template>
   <a href="https://github.com/samuelhorn/jamdocs" :class="size" title="Git-repository" aria-label="Jamdocs on Github">
-    <github-icon class="icon" />
+    <facebook-icon class="icon" />
     {{text}}
   </a>
 </template>
 
 <script>
-import { GithubIcon } from 'vue-feather-icons'
+import { FacebookIcon } from 'vue-feather-icons'
 
 export default {
   components: {
-    GithubIcon
+    FacebookIcon
   },
   props: {
     size: {
@@ -19,7 +19,7 @@ export default {
     },
     text: {
       type: String,
-      default: 'Fork me on Github'
+      default: 'Udostępnij na FB'
     }
   }
 }
