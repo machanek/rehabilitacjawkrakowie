@@ -1,14 +1,26 @@
 <template>
-  <a href="https://github.com/samuelhorn/jamdocs" :class="size" title="Git-repository" aria-label="Jamdocs on Github">
+  <a :href="generatedUrl" :class="size" title="Git-repository" aria-label="Facebook">
     <facebook-icon class="icon" />
     {{text}}
   </a>
 </template>
 
 <script>
-import { FacebookIcon } from 'vue-feather-icons'
+import { FacebookIcon  } from 'vue-feather-icons'
 
 export default {
+  data() {
+    return {
+      currentUrl: '',              
+    }
+  },
+  computed: {
+    generatedUrl()
+    {
+      console.log('https://www.facebook.com/sharer/sharer.php?caption='+this.title+'&u='+this.currentUrl)
+      return 'https://www.facebook.com/sharer/sharer.php?caption='+this.title+'&u='+this.currentUrl
+    }
+  },
   components: {
     FacebookIcon
   },
@@ -17,10 +29,18 @@ export default {
       type: String,
       default: 'small'
     },
+    title: {
+      type: String,
+      default: 'D'
+    },
     text: {
       type: String,
       default: 'Udostępnij na FB'
     }
+  },
+  mounted()
+  {
+    this.currentUrl = document.URL
   }
 }
 </script>
@@ -71,4 +91,3 @@ a {
   }
 }
 </style>
-
