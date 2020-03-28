@@ -1,7 +1,7 @@
 ---
 title: Odchudzające koktajle z warzyw
 date: 2019-12-01
-slug: Odchudzajace-koktajle-z-owocow-i-warzyw
+slug: odchudzajace-koktajle-z-owocow-i-warzyw
 
 ---
 
