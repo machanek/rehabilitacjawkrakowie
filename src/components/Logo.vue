@@ -2,12 +2,12 @@
   <g-link to="/" class="logo" title="Logo fizjoterapia Kraków">
     <transition name="theme">
       <div v-if="color == 'dark'">
-        <g-image src="~/assets/img/logo-bright.svg" alt="Blog o fizjoterapii" />
+        <g-image src="~/assets/img/logo_biale.png" alt="Blog o fizjoterapii" />
       </div>
     </transition>
     <transition name="theme">
       <div v-if="color == 'bright'">
-        <g-image src="~/assets/img/logo-dark.svg" alt="logo" />
+        <g-image src="~/assets/img/logo_czarne.png" alt="logo" />
       </div>
     </transition>
   </g-link>
