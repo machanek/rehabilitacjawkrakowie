@@ -1,7 +1,7 @@
 ---
 title: Soki warzywne i ich odchudzające właściwości
 date: 2019-02-04
-slug: soki-warzywne-i-ich-odchudzajace-własciwosci
+slug: soki-warzywne-i-ich-odchudzajace-wlasciwosci
 
 ---
 **Soki warzywne są nie tylko smacznym, ale i bardzo zdrowym dodatkiem do naszej codziennej diety.** Sięganie po takie napoje może pomóc też tym, którzy chcą się uporać ze zbędnymi kilogramami. Jakie przepisy na warzywne napoje warto wykorzystać w chwili, gdy soki z warzyw mają nam przede wszystkim ułatwić odchudzanie?  
