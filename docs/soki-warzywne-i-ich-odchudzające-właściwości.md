@@ -1,6 +1,6 @@
 ---
 title: Soki warzywne i ich odchudzające właściwości
-date: 2019-02-05
+date: 2019-02-04
 slug: soki-warzywne-i-ich-odchudzajace-własciwosci
 
 ---
