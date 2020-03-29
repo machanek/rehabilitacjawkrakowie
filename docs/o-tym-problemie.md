@@ -1,5 +1,5 @@
 ---
-title: " o tym problemie"
+title: Kurcz przełyku co warto wiedzieć o tym problemie
 date: 2019-07-09
 slug: kurcz-przelyku-co-warto-wiedziec-o-tym-problemie
 
