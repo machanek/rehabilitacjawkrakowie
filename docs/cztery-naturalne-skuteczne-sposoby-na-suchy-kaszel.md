@@ -4,7 +4,7 @@ date: 2019-05-15
 slug: cztery-naturalne-skuteczne-sposoby-na-suchy-kaszel
 
 ---
-**Męczy w ciągu dnia i nie daje spać w nocy- suchy kaszel, to bardzo uciążliwa dolegliwość. Już po jednym dniu kasłania śluzówka jamy ustnej i gardło zaczynają się nadmiernie wysuszać i boleć.** 
+**Męczy w ciągu dnia i nie daje spać w nocy- suchy kaszel, to bardzo uciążliwa dolegliwość. Już po jednym dniu kasłania śluzówka jamy ustnej i gardło zaczynają się nadmiernie wysuszać i boleć.**
 
 Jeśli kaszel trwa kilka dni, pojawia się też ból mięśni brzucha i klatki piersiowej. Nie czekaj więc tylko od razu, gdy pojawi się suchy kaszel, zastosuj jeden z 4 sprawdzonych sposobów walki z tą przypadłością.
 
@@ -28,4 +28,6 @@ Kup odkażający i łagodzący podrażnienia naturalny olejek eteryczny z eukali
 
 Ziołowe syropy i leki homeopatyczne są bardzo skuteczne w walce z suchym kaszlem. Warto z nich skorzystać. Złagodzą napady kaszlu i uporczywe drapanie w gardle. Wybierz syrop z pierwiosnka, czarnego bzu, babki lancetowatej albo krople homeopatyczne lub pastylki wspomagające leczenie kaszlu. Farmaceuta pomoże Ci dokonać wyboru.
 
-Szybciej pozbędziesz się kaszlu, jeśli odpoczniesz co najmniej 2-3 dni w domu. Pamiętaj, że jeśli pomimo stosowania domowych metod leczniczych, kaszel nie mija przez kilka dni, powinnaś udać się do lekarza. Nie lekceważ sytuacji, ponieważ może się to skończyć powikłaniami takimi jak zapalenie oskrzeli lub nawet groźne dla życia i zdrowia zapalenie płuc.
+Szybciej pozbędziesz się kaszlu, jeśli odpoczniesz co najmniej 2-3 dni w domu. Pamiętaj, że jeśli pomimo stosowania domowych metod leczniczych, kaszel nie mija przez kilka dni, powinnaś udać się do lekarza. 
+
+> **Nie lekceważ sytuacji, ponieważ może się to skończyć powikłaniami takimi jak zapalenie oskrzeli lub nawet groźne dla życia i zdrowia zapalenie płuc**.
