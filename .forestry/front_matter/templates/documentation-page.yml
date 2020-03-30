@@ -15,6 +15,7 @@ fields:
   name: slug
   label: slug
 pages:
+- docs/cztery-naturalne-skuteczne-sposoby-na-suchy-kaszel.md
 - docs/editing-in-forestry.md
 - docs/o-tym-problemie.md
 - docs/odchudzające-koktajle-z-owoców-i-warzyw.md
