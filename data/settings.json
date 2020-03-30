@@ -48,7 +48,12 @@
     },
     {
       "section": "Styl Życia",
-      "topics": ""
+      "topics": [
+        {
+          "title": "Jak przetrwać upały",
+          "slug": "jak-przetrwac-fale-upalow"
+        }
+      ]
     }
   ]
 }
