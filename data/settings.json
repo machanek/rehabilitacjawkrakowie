@@ -50,6 +50,10 @@
       "section": "Styl Życia",
       "topics": [
         {
+          "title": "Kwarantanna domowa",
+          "slug": "jak-przygotowac-sie-na-kwarantanne"
+        },
+        {
           "title": "Obrona przed psem",
           "slug": "jak-obronic-sie-przed-atakiem-agresywnego-psa"
         },
