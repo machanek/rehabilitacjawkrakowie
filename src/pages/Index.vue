@@ -4,9 +4,9 @@
       <h1>{{ $static.metadata.siteName }} - {{ this.description }}</h1>
       <nav>
         <!-- To use other icons here, you need to import them in the Shortcut component -->
-        <Shortcut link="/getting-started" text="Introduction" icon="play-icon" />
-        <Shortcut link="/theme-configuration" text="Configuration" icon="sliders-icon" />
-        <Shortcut link="/theme-configuration#changing-colors" text="Change colors" icon="eye-icon" />
+        <Shortcut link="/jak-wyleczyc-przeziebienie" text="Zdrowie" icon="activity-icon" />
+        <Shortcut link="/soki-warzywne-i-ich-odchudzajace-wlasciwosci" text="Dieta" icon="alert-circle-icon" />
+        <Shortcut link="/jak-przygotowac-sie-na-kwarantanne" text="Styl życia" icon="user-icon" />
       </nav>
       <GitLink class="git" size="large" />
     </div>
@@ -32,14 +32,14 @@ export default {
   },
   data() {
     return {
-      description: 'The ultimate static generated documentation theme for the JAM-stack'
+      description: 'Przyjazny pacjentowi Blog Medyczny prowadzony przez specjalistów'
     }
   },
   metaInfo() {
     return {
       title: this.description,
       meta: [
-        { key: 'description', name: 'description', content: 'A theme for static site documentation based on Gridsome, ready to deploy to Netlify in one click.' }
+        { key: 'description', name: 'description', content: 'Przyjazny pacjentowi Blog Medyczny prowadzony przez specjalistów' }
       ]
     }
   }

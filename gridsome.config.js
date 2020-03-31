@@ -16,8 +16,8 @@ function addStyleResource (rule) {
 }
 
 module.exports = {
-  siteName: 'Jamdocs',
-  siteUrl: 'https://jamdocs.netlify.com',
+  siteName: 'Rehabilitacja24',
+  siteUrl: 'https://rehabilitacjawkrakowie24.pl/',
   templates: {
     Doc: '/:slug',
   },

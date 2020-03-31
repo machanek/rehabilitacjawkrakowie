@@ -10,12 +10,13 @@
 </template>
 
 <script>
-import { MoonIcon, SunIcon } from 'vue-feather-icons'
+import { MoonIcon, SunIcon, } from 'vue-feather-icons'
 
 export default {
   components: {
     MoonIcon,
     SunIcon
+
   },
   data() {
     return {
