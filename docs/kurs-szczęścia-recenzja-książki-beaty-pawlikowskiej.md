@@ -8,6 +8,8 @@ Beata Pawlikowska to bardzo znana z telewizji i radia podróżniczka, której ni
 
 > Wiesz dlaczego tyle razy wydawało ci się, że już wyprostowałeś wszystkie swoje myśli, a potem nagle odkrywałeś, że są tak samo poplątane jak zawsze?
 
+![recenzja książki kurs szczęścia](/recenzja_ksiazki_kurs_szczescia_beaty_pawlikowskiej.JPG 'Książka "Kurs szczęścia" B. Pawlikowska')
+
 ## Książka "Kurs szczęścia" B. Pawlikowska
 
 Jedną z nich jest książka „Kurs szczęścia”, którą gorąco wszystkim polecam. Jest to książka adresowana do osób, które mają problem z niską samooceną, odczuwają stany depresyjne czy mają zaburzenia lękowe. Do bardzo dobra pozycja dla wszystkich osób, samotnych, które mają problem z zaakceptowaniem tego stanu.
