@@ -26,4 +26,4 @@ Dzięki nim nasz organizm otrzymuje jednocześnie cenną porcję witamin oraz mi
 
 Warzywa do naszych koktajli dostarczyła hurtownia warzyw i owoców Polmar.
 
-[![Hurtownia Warzyw i Owoców](/hurtownia-warzyw-owocow.jpg "Polmar Warzywa")](https://polmar.net/kontakt)
+[![Hurtownia Owoców i Warzyw](/hurtownia-warzyw-owocow.jpg "Polmar Warzywa")](https://polmar.net/kontakt)
